@@ -1,0 +1,74 @@
+---
+title: "Professional Experience"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+\ \par
+
+### CVS Health
+##### *June 2023 - Aug 2023  \ \ New York, U.S.*
+***Data Scientist Intern***
+
+<img src="Images/CVS.png" style="width:50%">
+
+**Job Description**:\par
+• Incoming internship as a health data scientist intern
+
+• Many challenging things to expect for the summer internship
+
+• Promote my data science techniques and further my understanding of the industry.
+
+
+\ \par
+
+
+
+### eBay China Analytics Center
+##### *June 2021 - Jan 2022  \ \ Shanghai, China*
+***Data Scientist Intern***
+
+<img src="Images/ebay.png" style="width:50%">
+
+**Job Description**:\par
+• Filtered transactional data and computed business metrics (SQL), and performed funnel analysis.
+
+• Established automated daily and weekly refreshed Tableau dashboards to track GMV performance.
+
+• Conducted A/B Testing experiment to test GMV uplift of some eBay Plus Membership coupons, validated the possibility to distribute those coupons to acquire users to join eBay plus membership.
+
+• Applied classification models (Logistic Regression, Decision Tree, Random Forest, Boosting, R, Caret, Xgboost) to predict Afterpay defaults in the buyers and filtered key features toward default.
+
+• Actively involved in projects that adopted uplift models such as T-learner and X-learner (R, Python) for evaluation of seller & buyer coupon uplift benefits.
+
+\ \par
+
+### Graviti AI
+##### *June 2020 - Sept. 2020  \ \ Shanghai, China*
+***Data Engineering Intern***
+
+<img src="Images/graviti.jpeg" style="width:50%">
+
+**Job Description**:\par
+• Performed visual analysis reviews on 15+ main autonomous driving datasets (Python) containing 100K image annotation data in 10+ application scenarios, coordinated with algorithm team and made plans to manage data in data warehouse.
+
+• Developed the SDK of TensorBay and Open Data Platform (Python), engineered data loading functionality for 20K+ image data at back-end database, and enabled image annotation visualization at the front-end website for 10+ published datasets.
+
+\ \par
+
+### Fudan University
+##### *Sept. 2019 - May 2022  \ \ Shanghai, China*
+***Research Assistant***
+
+<img src="Images/fudan2.jpeg" style="width:50%">
+
+**Job Description**:\par
+• Researched interactive graph search algorithm (IGS) in graph databases which performed graph search under the guidance of human knowledge,
+concluded deficiencies of the baseline algorithm studies on the basis of summing up its innovations.
+
+• Devised knowledge-based interactive graph search (KIGS) algorithm based on entity relation knowledge and weighted-binary search, tested my
+upgraded algorithm (Python) on multiple datasets and reduced cost of the baseline method by 20%.
+
+• Published research paper on China Conference on Knowledge Graph and Semantic Computing 2022 (CCKS 2022), gave oral presentation at conference.

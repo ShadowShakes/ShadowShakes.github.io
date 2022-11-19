@@ -1,0 +1,33 @@
+---
+title: "Academic Experience"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+\ \par
+
+### Fudan Universtiy
+##### *Sept. 2017 - June 2022  \ \ Shanghai, China*
+***School of Data Science***
+
+I got my **bachelor of science degree in data science** at Fudan University.
+
+<img src="Images/fudan1.jpeg" style="width:50%">
+
+**Relevant Courses**:\par
+Machine Learning, Object-oriented Programming, Data Structure, Data Visualization, Data Mining, Advanced Algebra, Probability, Database and Implementation, Computational Statistics, Numerical Algorithms, Artificial Intelligence, Mathematical Modelling
+
+\ \par
+
+### Columbia University
+##### *Sept. 2022 - June 2024  \ \ New York, U.S.*
+***Mailman School of Public Health***
+
+I am pursuing a **master of science degree in biostatistics** at Columbia University.
+
+<img src="Images/mailman.jpeg" style="width:50%">
+
+**Relevant Courses**:\par
+Data Science, Statistical Learning and Data Mining, Latent Variable & Structural Equation  Modelling, Graphical Model for Complex Data, Bayesian Analysis and Adaptive Designs, Analysis of Longitudinal Data, Relational Databases, Advanced Statistical Computing

@@ -1,0 +1,51 @@
+---
+title: "Shaohan Chen"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+\ \par
+
+Hi, welcome to visit my personal website.
+
+\ \par
+
+### Introduction
+
+Hi, my name is Shaohan(Michael) Chen.
+
+Now an enrolled Master of Science student in Biostatistics at Columbia University.
+
+Love to study data science, play badminton, basketball and all kinds of games, and I love watching movies.
+
+A big fan of Derrick Rose(an NBA basketball player) and RNG(a team in League of Legends).
+
+Also an incoming health data scientist intern at CVS Health on 2023 summer.
+
+Will devote myself to the data science application industry/research in the future.
+
+<img src="Images/self.jpeg" style="width:50%">
+
+Explore more about me by clicking pages on the top navigation bar.
+
+Please feel free to contact me if you have any question about me or for cooperation.
+
+\ \par
+
+### Contact Information
+
+Shaohan Chen
+
+Columbia Mailman School of Public Health
+
+100 Haven Ave, New York, NY 10032
+
+[E-mail](mailto:<sc5154@cumc.columiba.edu>)
+
+[Google Site](https://sites.google.com/view/shaohanchen/home)
+
+[Github Link](https://github.com/ShadowShakes)
+
+[LinkedIn Page](https://www.linkedin.com/in/shaohanchen-orange/)

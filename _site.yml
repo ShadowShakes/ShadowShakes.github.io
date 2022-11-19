@@ -1,0 +1,22 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  left:
+    - text: "Academic Experience"
+      href: academic.html
+    - text: "Professional Experience"
+      href: professional.html
+   
+  right:
+    - text: "About"
+      href: about.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<sc5154@cumc.columiba.edu>
+    - icon: fa-github fa-lg
+      href: https://github.com/ShadowShakes
+    - text: "CV"
+      href: ./Materials/CV_of_Shaohan_Chen.pdf
+output:
+  html_document:
+    theme: flatly
