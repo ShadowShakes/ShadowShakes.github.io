@@ -26,7 +26,7 @@ Also an incoming health data scientist intern at CVS Health on 2023 summer.
 
 Will devote myself to the data science application industry/research in the future.
 
-<img src="Images/self.jpeg" style="width:50%">
+<img src="Images/self_iceland.jpeg" style="width:50%">
 
 Explore more about me by clicking pages on the top navigation bar.
 
